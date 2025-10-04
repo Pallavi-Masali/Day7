@@ -2,7 +2,7 @@
 🔍 Task 7: Identify and Remove Suspicious Browser Extensions
 🧠 Objective:To understand how to inspect, evaluate, and remove potentially harmful browser extensions that may affect privacy or performance.
 
-⚙️ Key Steps:
+Key Steps:
 1.Opened browser’s extension manager (chrome://extensions/ for Chrome).
 2.Reviewed all installed extensions, their permissions, and publishers
 3.Checked online reviews and developer authenticity
